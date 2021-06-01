@@ -30,7 +30,7 @@ namespace KnockKnock
                 resp2 = resp2.ToLower();
             }
 
-            Console.WriteLine("Mikey isn't working, can you let me in?");
+            Console.WriteLine("My key isn't working, can you let me in?");
         }
     }
 }
