@@ -12,7 +12,7 @@ namespace KnockKnock
             resp = resp.Trim();
             resp = resp.ToLower();
             
-            while ((!resp.Contains("who's there") && !resp.Contains("whos there")) && resp.Length >= 12)
+            while ((!resp.Contains("who's there") && !resp.Contains("whos there")) || resp.Length > 12)
             {
                 Console.WriteLine("Knock knock!");
                 resp = Console.ReadLine();
@@ -24,7 +24,7 @@ namespace KnockKnock
             string resp2 = Console.ReadLine();
             resp2 = resp2.ToLower();
 
-            while (!resp2.Contains("mikey who") && resp2.Length >= 10)
+            while (!resp2.Contains("mikey who") || resp2.Length > 10)
             {
                 Console.WriteLine("Try again.");
                 resp2 = Console.ReadLine();
