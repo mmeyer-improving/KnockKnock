@@ -1,0 +1,16 @@
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.exe
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.deps.json
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.json
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.runtimeconfig.dev.json
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.dll
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\ref\KnockKnock.dll
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\bin\Debug\net5.0\KnockKnock.pdb
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csprojAssemblyReference.cache
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfoInputs.cache
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.AssemblyInfo.cs
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.csproj.CoreCompileInputs.cache
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.dll
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\ref\KnockKnock.dll
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.pdb
+C:\Users\MichaelMeyer\source\repos\KnockKnock\KnockKnock\obj\Debug\net5.0\KnockKnock.genruntimeconfig.cache
