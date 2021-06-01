@@ -9,10 +9,10 @@ namespace KnockKnock
             Console.WriteLine("Knock knock!");
 
             string resp = Console.ReadLine();
+            resp = resp.Trim();
             resp = resp.ToLower();
             
-            //TODO: Add further validation? Currently works even if you have stuff before or after the "who's there" i.e. akfhkfhkglhlkwho's there
-            while (!resp.Contains("who's there") && !resp.Contains("whos there"))
+            while ((!resp.Contains("who's there") && !resp.Contains("whos there")) && resp.Length >= 12)
             {
                 Console.WriteLine("Knock knock!");
                 resp = Console.ReadLine();
@@ -24,8 +24,7 @@ namespace KnockKnock
             string resp2 = Console.ReadLine();
             resp2 = resp2.ToLower();
 
-            //Same as above, probably needs further validation & a refactor
-            while (!resp2.Contains("mikey who"))
+            while (!resp2.Contains("mikey who") && resp2.Length >= 10)
             {
                 Console.WriteLine("Try again.");
                 resp2 = Console.ReadLine();
